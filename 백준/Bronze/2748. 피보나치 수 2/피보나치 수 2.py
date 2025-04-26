@@ -1,3 +1,5 @@
+# 동적 계획법(Dp, Dynamic Programming)+반복문 
+
 n = int(input()) # 정수 n 입력받기 
     
 fibo = [0,1] # 피보나치 수열 처음 두 항을 fibo 리스트에 저장 
